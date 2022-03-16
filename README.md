@@ -1,3 +1,10 @@
+# 포스터
+
+<img width="569" alt="4343" src="https://user-images.githubusercontent.com/100929485/158537572-657cb83d-0ad7-4728-b33a-ede9c5eb4ebc.png">
+
+# 시연영상
+https://www.youtube.com/watch?v=wHMDzlWkGuc
+
 # 실행방법
 현재 리포 받은 후 
 > npm install <br>
@@ -29,9 +36,4 @@
 - 8/30: Host - Issuer간 통신 업데이트 ( User에서 키스토어 발급 > Issuer암호화 진행 > User가 직접 개인키로 서명)
 - 09/05 : Verifier  Host QR코드 스캔기능 추가 
 - 09/21 : Verifier  Host QR코드 카메라 스캔 기능 추가 및 전체시나리오 모바일 환경 테스트
-
-
-# TODO
-- 미비된 기능 확인 후 정리
-- UI/UX 다듬기
-- CL Algorithm 확인 후 구현
+- 10/15 : UI/UX , 미비된 기능 다듬기
